@@ -1,5 +1,3 @@
 language: phyton
 python: 
-- '3.8'
-script:
-- saludo.py 
+- '3.8' 
