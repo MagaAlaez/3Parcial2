@@ -1,5 +1,5 @@
 sudo: false
-language: phyton
+language: python
 python: 
 - '3.8.' 
 script: 
